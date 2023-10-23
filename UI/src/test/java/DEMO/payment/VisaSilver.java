@@ -1,5 +1,8 @@
-public class VisaSilver{
-public void payByVisaSilver(){
-System.out.println("Pay by Visa Silver")
-}
+package DEMO.payment;
+
+public class VisaSilver {
+    public void payByVisaSilver() {
+        System.out.println("Pay by Visa Silver");
+
+    }
 }
